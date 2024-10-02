@@ -1,4 +1,4 @@
-from funcionario import funcionario
+from funcionario import Funcionario
 
 funcionario1 = funcionario("Hélio lindo", "Desenvolvedor", 15000)
 funcionario2 = funcionario("Samuel", "Desenvolvedor", 15000)
